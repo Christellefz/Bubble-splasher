@@ -1,0 +1,24 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "Petite App anti stress ; Eclate les bulles!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christellefz/Bubble-splasher.git"
+  },
+  "keywords": [
+    "bubble",
+    "stress",
+    "relief"
+  ],
+  "author": "Christellefz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christellefz/Bubble-splasher/issues"
+  },
+  "homepage": "https://github.com/Christellefz/Bubble-splasher#readme"
+}
